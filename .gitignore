@@ -1,0 +1,26 @@
+# Built-in Gradle & Build caches
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+local.properties
+.DS_Store
+
+# Captures and logs
+captures/
+.externalNativeBuild/
+.cxx/
+*.jfr
+*.hprof
+
+# Built binaries
+*.apk
+*.aab
+
+# Local env secrets
+.env
+!.env.example
