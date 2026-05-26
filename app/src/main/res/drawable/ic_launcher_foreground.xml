@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+    <group
+        android:pivotX="512"
+        android:pivotY="512"
+        android:scaleX="0.72"
+        android:scaleY="0.72">
+        <!-- Outer M silhouette -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M250,700 V300 C250,256 284,230 322,257 L512,400 L702,257 C740,230 774,256 774,300 V700 C774,739 742,760 709,737 L652,696 V436 L512,538 L372,436 V696 L315,737 C282,760 250,739 250,700 Z" />
+
+        <!-- Receipt outline nested inside the M -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M394,492 L426,516 V718 C426,736 440,748 458,748 H606 V542 H638 V718 H680 V744 C680,776 654,800 622,800 H450 C418,800 394,776 394,744 Z" />
+
+        <!-- Checklist Row 1 -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M460,578 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M500,566 H574 A12,12 0 0,1 586,578 A12,12 0 0,1 574,590 H500 A12,12 0 0,1 488,578 A12,12 0 0,1 500,566 Z" />
+
+        <!-- Checklist Row 2 -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M460,628 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M500,616 H574 A12,12 0 0,1 586,628 A12,12 0 0,1 574,640 H500 A12,12 0 0,1 488,628 A12,12 0 0,1 500,616 Z" />
+
+        <!-- Checklist Row 3 -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M460,678 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M500,666 H574 A12,12 0 0,1 586,678 A12,12 0 0,1 574,690 H500 A12,12 0 0,1 488,678 A12,12 0 0,1 500,666 Z" />
+    </group>
+</vector>

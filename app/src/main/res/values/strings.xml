@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Memo Bills</string>
+    <string name="tagline">Bills, reminders, and shopping lists — kept simple.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bills">Bills</string>
+    <string name="nav_shopping">Shopping</string>
+    <string name="action_add_bill">Add Bill</string>
+    <string name="action_new_shopping_list">New Shopping List</string>
+    <string name="cd_open_settings">Open settings</string>
+    <string name="cd_memo_bills_logo">Memo Bills mark</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_data_management_title">Data &amp; Backup</string>
+    <string name="settings_export_data">Export / Share Backup (JSON)</string>
+    <string name="settings_clear_all_data">Delete All Local Data</string>
+    <string name="settings_legal_and_play_title">Google Play &amp; Legal</string>
+    <string name="settings_privacy_policy">Privacy Policy &amp; Data Safety</string>
+    <string name="settings_terms_of_use">Terms of Use &amp; Open Source</string>
+    <string name="settings_play_store_button">Open on Google Play Store</string>
+    <string name="app_version_footer">Memo Bills v1.0 (Build 1) · Offline-First</string>
+</resources>
