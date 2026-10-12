@@ -1,0 +1,6 @@
+{
+  "name": "Memo Bills",
+  "description": "Simple, offline-first organizer for bills, payment reminders, and household shopping lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

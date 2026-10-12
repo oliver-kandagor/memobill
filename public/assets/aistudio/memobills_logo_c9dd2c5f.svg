@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">MemoBills app icon</title>
+  <desc id="desc">A white geometric letter M combined with a checklist receipt, centered on a black rounded square.</desc>
+  <rect width="1024" height="1024" rx="210" fill="#000000"/>
+  <!-- Outer M silhouette -->
+  <path d="M250 730V310
+           C250 266 284 240 322 267
+           L512 410
+           L702 267
+           C740 240 774 266 774 310
+           V730
+           C774 769 742 790 709 767
+           L642 720
+           V450
+           L512 548
+           L382 450
+           V720
+           L315 767
+           C282 790 250 769 250 730Z"
+        fill="#FFFFFF"/>
+  <!-- Receipt body, cut into the M's center -->
+  <path d="M386 456 L512 552 L638 456 V736
+           Q638 765 609 765 H415
+           Q386 765 386 736Z"
+        fill="#000000"/>
+  <!-- Checklist rows -->
+  <g fill="#FFFFFF">
+    <circle cx="440" cy="590" r="12"/>
+    <rect x="468" y="578" width="112" height="24" rx="12"/>
+    <circle cx="440" cy="642" r="12"/>
+    <rect x="468" y="630" width="112" height="24" rx="12"/>
+    <circle cx="440" cy="694" r="12"/>
+    <rect x="468" y="682" width="112" height="24" rx="12"/>
+  </g>
+</svg>
