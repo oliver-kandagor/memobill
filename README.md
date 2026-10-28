@@ -6,16 +6,16 @@
 
 [![Made in Kenya](https://img.shields.io/badge/Made%20in-Kenya%20🇰🇪-006600.svg?style=for-the-badge)](https://github.com/oliver-kandagor/memobill)
 [![Currency](https://img.shields.io/badge/Currency-KES%20(Shillings)-BB0000.svg?style=for-the-badge)](https://github.com/oliver-kandagor/memobill)
-[![M-Pesa Ready](https://img.shields.io/badge/M--Pesa-Paybill%20%26%20Till%20Ready-009933.svg?style=for-the-badge)](https://github.com/oliver-kandagor/memobill)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.0-purple.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4.svg?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
+[![Room DB](https://img.shields.io/badge/Storage-Room%20SQLite-00599C.svg?style=for-the-badge&logo=sqlite)](https://developer.android.com/training/data-storage/room)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-success.svg?style=for-the-badge&logo=shield)](https://github.com/oliver-kandagor/memobill)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
 <p align="center">
-  <i>Panga bajeti yako bila stress. 100% Offline • Zero Bank Logins • Hakuna Ads</i>
+  <i>Panga bajeti yako bila stress. 100% Offline • Hakuna Ads • No Account Needed</i>
 </p>
 
 <p align="center">
@@ -34,37 +34,37 @@
 
 ## 💡 About Memo Bills
 
-**Memo Bills** is a lightweight, privacy-focused personal finance and household shopping organizer designed from the ground up for the everyday Kenyan lifestyle. 
+**Memo Bills** is a lightweight, privacy-focused offline bills tracker and household shopping organizer designed for everyday life in Kenya. 
 
-From budgeting for monthly house rent, KPLC electricity tokens, and home WiFi to organizing your weekly supermarket or mama mboga grocery runs, Memo Bills provides a calm, unified view of your commitments in **KES (Kenyan Shillings)**.
+From scheduling monthly rent, electricity, and home internet to organizing your weekly supermarket or mama mboga grocery runs, Memo Bills gives you a unified, uncluttered view of your commitments in **KES (Kenyan Shillings)**.
 
-Unlike modern fintech apps that require sensitive bank logins, demand your M-Pesa PIN, collect telemetry, or push subscription models, Memo Bills keeps **100% of your data strictly on your physical phone**. No cloud syncs, no tracking, and no internet bundles required.
+Unlike cloud apps that require user accounts, collect tracking telemetry, or push subscriptions, Memo Bills keeps **100% of your data strictly on your physical device**. No cloud syncs, no tracking, and no internet bundles required.
 
 ---
 
 ## 🇰🇪 Tailored for the Kenyan Lifestyle
 
-Memo Bills was engineered specifically around how Kenyan households and individuals manage their money:
+Memo Bills is designed around how Kenyan households plan and organize their everyday spending:
 
-- 📲 **M-Pesa Paybill & Till Numbers at Hand**  
-  Keep business Paybill numbers, Till numbers, and account reference numbers (e.g. KPLC meter numbers, Zuku account IDs, landlord Paybills) stored right next to each bill so you never scramble when completing mobile money transfers.
-
-- ⚡ **Built for Kenyan Commitments**  
-  Effortlessly schedule and track recurring monthly and one-time commitments:
-  - 🏠 **Rent & Service Charges**
-  - ⚡ **KPLC Prepaid Tokens & Postpaid Power**
+- 📅 **Track Everyday Kenyan Bills**  
+  Effortlessly schedule and track recurring monthly or one-time household commitments:
+  - 🏠 **Rent & House Service Charges**
+  - ⚡ **Electricity Bills (Prepaid Tokens & Postpaid)**
   - 🌐 **Home WiFi (Safaricom Home Fibre, Zuku, Faiba, Airtel)**
-  - 💧 **Nairobi Water & County Utility Bills**
-  - 🤝 **Chama Contributions & Table Banking**
+  - 💧 **Water & Garbage Collection**
+  - 🤝 **Chama & Social Group Contributions**
 
-- 🛒 **From Supermarket Runs to Mama Mboga**  
-  Group items into custom categories (e.g., *Kitchen Groceries*, *Wholesale Essentials*, *Personal Care*). Track price estimates for unga, cooking oil, tomatoes, and vegetables in real-time. As you check off items at the till, watch your remaining expenditure update instantly.
+- 🛒 **From Supermarket Aisles to Mama Mboga**  
+  Group items into custom categories (e.g., *Kitchen Groceries*, *Household Supplies*, *Personal*). Track price estimates for unga, cooking oil, tomatoes, and vegetables in real-time. As you check off items while shopping, watch your remaining expenditure update instantly.
 
-- 💰 **Native KES & Fast Numerical Keypad**  
-  Built with native Kenyan Shilling (KES) formatting and a dedicated custom currency keypad that enables lightning-fast amount entries without fighting default system keyboards.
+- 📝 **Custom Notes & Reference Info**  
+  Add optional reference notes to any bill (such as account numbers or reminders) so all your payment details stay organized in one private place.
+
+- 💰 **Native KES Currency & Custom Keypad**  
+  Built with native Kenyan Shilling (KES) formatting and a clean, dedicated calculator-style numeric keypad designed for rapid, one-handed amount entry.
 
 - 📴 **100% Offline — Hakuna Bundles Needed**  
-  Works flawlessly even when you're out of data bundles or offline in transit. No loading spinners, no timeouts, and zero analytics trackers.
+  Runs entirely on a local Room SQLite database. Works smoothly anywhere without data bundles, network connectivity, or external servers.
 
 ---
 
@@ -73,7 +73,7 @@ Memo Bills was engineered specifically around how Kenyan households and individu
 - 📅 **Recurring Bills Management**
   - Track one-time, weekly, monthly, quarterly, or yearly commitments.
   - Smart due-date calculations and status flags (Pending, Paid, Upcoming).
-  - Add account/paybill references and notes for frictionless payments.
+  - Add custom reference notes and payment details to keep your commitments organized.
 
 - 🛒 **Categorized Shopping Lists**
   - Group shopping items by custom household categories.
