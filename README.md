@@ -75,11 +75,19 @@ Whether you're managing recurring monthly utility bills, planning rent deadlines
   <table>
     <tr>
       <td align="center"><b>Dashboard & Analytics</b></td>
-      <td align="center"><b>Add Bill & Quick Scheduling</b></td>
+      <td align="center"><b>Bills Tracking</b></td>
+      <td align="center"><b>Flexible Due Dates</b></td>
+      <td align="center"><b>Shopping Categories</b></td>
+      <td align="center"><b>Smart Checklists</b></td>
+      <td align="center"><b>Fast Pricing Keypad</b></td>
     </tr>
     <tr>
-      <td><img src="docs/screenshots/home_dashboard.png" width="360" alt="Memo Bills Home Dashboard" /></td>
-      <td><img src="docs/screenshots/add_bill_modal.png" width="360" alt="Memo Bills Add Bill Modal" /></td>
+      <td><img src="docs/screenshots/01_Overview.png" width="260" alt="Memo Bills Overview & Trends" /></td>
+      <td><img src="docs/screenshots/02_Bills_Management.png" width="260" alt="Memo Bills Management" /></td>
+      <td><img src="docs/screenshots/03_Quick_Scheduling.png" width="260" alt="Memo Bills Flexible Schedules" /></td>
+      <td><img src="docs/screenshots/04_Shopping_Categories.png" width="260" alt="Memo Bills Shopping Categories" /></td>
+      <td><img src="docs/screenshots/05_Smart_Checklists.png" width="260" alt="Memo Bills Smart Checklists" /></td>
+      <td><img src="docs/screenshots/06_Custom_Keypad.png" width="260" alt="Memo Bills Quick Keypad" /></td>
     </tr>
   </table>
 </div>
